@@ -1,0 +1,35 @@
+{
+    "v": {
+        "url": "https://vyshnavim.jfrog.io/artifactory",
+        "userName": "vyshmgowda@gmail.com",
+        "api_key": "cmVmdGtuOjAxOjE3MTUzMzMwNjk6S29CM1dmTkJyYVFQSXpkbTRIb3RIeWxUbHJU",
+        "repos": [
+            "a",
+            "example-repo-local",
+            "temp",
+            "vvce"
+        ]
+    },
+    "p": {
+        "url": "https://puneethshaiva02.jfrog.io/artifactory",
+        "userName": "puneethrajnm02@gmail.com",
+        "api_key": "cmVmdGtuOjAxOjE3MTUzMzM1MjA6OXcycmI1dnFsek1FWnNYcTl4OUhOS0Q0OGMw",
+        "repos": [
+            "a",
+            "example-repo-local",
+            "temp",
+            "vvce"
+        ]
+    },
+    "n": {
+        "url": "https://nandiniganesh.jfrog.io/artifactory",
+        "userName": "nandiniganeshs@gmail.com",
+        "api_key": "cmVmdGtuOjAxOjE3MTY4OTQ3Nzc6aEliYUJYTFRTcEZudHVoUGlRVGFQTVdBZHFl",
+        "repos": [
+            "a",
+            "example-repo-local",
+            "temp",
+            "vvce"
+        ]
+    }
+}
